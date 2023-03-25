@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\bin\Debug\net6.0\1_n.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\bin\Debug\net6.0\1_n.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\bin\Debug\net6.0\1_n.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\bin\Debug\net6.0\1_n.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\bin\Debug\net6.0\ref\1_n.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\bin\Debug\net6.0\1_n.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\ref\1_n.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\1_n\obj\Debug\net6.0\1_n.genruntimeconfig.cache
