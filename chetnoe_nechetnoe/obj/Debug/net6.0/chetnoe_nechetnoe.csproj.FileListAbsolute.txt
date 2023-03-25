@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\bin\Debug\net6.0\chetnoe_nechetnoe.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\bin\Debug\net6.0\chetnoe_nechetnoe.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\bin\Debug\net6.0\chetnoe_nechetnoe.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\bin\Debug\net6.0\chetnoe_nechetnoe.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\bin\Debug\net6.0\ref\chetnoe_nechetnoe.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\bin\Debug\net6.0\chetnoe_nechetnoe.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\ref\chetnoe_nechetnoe.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\chetnoe_nechetnoe\obj\Debug\net6.0\chetnoe_nechetnoe.genruntimeconfig.cache
