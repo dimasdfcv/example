@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\bin\Debug\net6.0\v_stepen.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\bin\Debug\net6.0\v_stepen.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\bin\Debug\net6.0\v_stepen.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\bin\Debug\net6.0\v_stepen.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\bin\Debug\net6.0\ref\v_stepen.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\bin\Debug\net6.0\v_stepen.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\ref\v_stepen.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\v_stepen\obj\Debug\net6.0\v_stepen.genruntimeconfig.cache
