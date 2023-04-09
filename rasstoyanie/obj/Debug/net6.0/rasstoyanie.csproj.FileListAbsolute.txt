@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\bin\Debug\net6.0\rasstoyanie.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\bin\Debug\net6.0\rasstoyanie.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\bin\Debug\net6.0\rasstoyanie.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\bin\Debug\net6.0\rasstoyanie.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\bin\Debug\net6.0\ref\rasstoyanie.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\bin\Debug\net6.0\rasstoyanie.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\ref\rasstoyanie.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\rasstoyanie\obj\Debug\net6.0\rasstoyanie.genruntimeconfig.cache
