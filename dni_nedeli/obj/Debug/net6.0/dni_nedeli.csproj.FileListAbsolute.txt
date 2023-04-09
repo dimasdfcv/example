@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\bin\Debug\net6.0\dni_nedeli.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\bin\Debug\net6.0\dni_nedeli.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\bin\Debug\net6.0\dni_nedeli.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\bin\Debug\net6.0\dni_nedeli.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\bin\Debug\net6.0\ref\dni_nedeli.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\bin\Debug\net6.0\dni_nedeli.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\ref\dni_nedeli.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\dni_nedeli\obj\Debug\net6.0\dni_nedeli.genruntimeconfig.cache
