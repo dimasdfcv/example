@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\bin\Debug\net6.0\summ_nechetnyh.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\bin\Debug\net6.0\summ_nechetnyh.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\bin\Debug\net6.0\summ_nechetnyh.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\bin\Debug\net6.0\summ_nechetnyh.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\bin\Debug\net6.0\ref\summ_nechetnyh.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\bin\Debug\net6.0\summ_nechetnyh.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\ref\summ_nechetnyh.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_nechetnyh\obj\Debug\net6.0\summ_nechetnyh.genruntimeconfig.cache
