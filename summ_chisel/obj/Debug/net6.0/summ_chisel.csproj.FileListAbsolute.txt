@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\bin\Debug\net6.0\summ_chisel.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\bin\Debug\net6.0\summ_chisel.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\bin\Debug\net6.0\summ_chisel.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\bin\Debug\net6.0\summ_chisel.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\bin\Debug\net6.0\ref\summ_chisel.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\bin\Debug\net6.0\summ_chisel.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\ref\summ_chisel.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\summ_chisel\obj\Debug\net6.0\summ_chisel.genruntimeconfig.cache
