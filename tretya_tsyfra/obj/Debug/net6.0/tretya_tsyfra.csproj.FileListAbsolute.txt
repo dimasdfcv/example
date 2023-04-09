@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\bin\Debug\net6.0\tretya_tsyfra.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\bin\Debug\net6.0\tretya_tsyfra.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\bin\Debug\net6.0\tretya_tsyfra.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\bin\Debug\net6.0\tretya_tsyfra.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\bin\Debug\net6.0\ref\tretya_tsyfra.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\bin\Debug\net6.0\tretya_tsyfra.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\ref\tretya_tsyfra.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\tretya_tsyfra\obj\Debug\net6.0\tretya_tsyfra.genruntimeconfig.cache
