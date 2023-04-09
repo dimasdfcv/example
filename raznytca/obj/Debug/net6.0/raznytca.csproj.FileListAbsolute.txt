@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\bin\Debug\net6.0\raznytca.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\bin\Debug\net6.0\raznytca.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\bin\Debug\net6.0\raznytca.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\bin\Debug\net6.0\raznytca.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\bin\Debug\net6.0\ref\raznytca.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\bin\Debug\net6.0\raznytca.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\ref\raznytca.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\raznytca\obj\Debug\net6.0\raznytca.genruntimeconfig.cache
