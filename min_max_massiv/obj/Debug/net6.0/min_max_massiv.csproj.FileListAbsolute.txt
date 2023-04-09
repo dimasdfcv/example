@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\bin\Debug\net6.0\min_max_massiv.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\bin\Debug\net6.0\min_max_massiv.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\bin\Debug\net6.0\min_max_massiv.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\bin\Debug\net6.0\min_max_massiv.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\bin\Debug\net6.0\ref\min_max_massiv.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\bin\Debug\net6.0\min_max_massiv.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\ref\min_max_massiv.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\min_max_massiv\obj\Debug\net6.0\min_max_massiv.genruntimeconfig.cache
