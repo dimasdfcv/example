@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\bin\Debug\net6.0\palindrom.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\bin\Debug\net6.0\palindrom.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\bin\Debug\net6.0\palindrom.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\bin\Debug\net6.0\palindrom.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\bin\Debug\net6.0\ref\palindrom.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\bin\Debug\net6.0\palindrom.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\ref\palindrom.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\palindrom\obj\Debug\net6.0\palindrom.genruntimeconfig.cache
