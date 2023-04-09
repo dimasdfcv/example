@@ -1,0 +1,16 @@
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\bin\Debug\net6.0\vtoroe_chislo.exe
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\bin\Debug\net6.0\vtoroe_chislo.deps.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\bin\Debug\net6.0\vtoroe_chislo.runtimeconfig.json
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\bin\Debug\net6.0\vtoroe_chislo.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\bin\Debug\net6.0\ref\vtoroe_chislo.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\bin\Debug\net6.0\vtoroe_chislo.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.GlobalUsings.g.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.csproj.AssemblyReference.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.AssemblyInfoInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.AssemblyInfo.cs
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.csproj.CoreCompileInputs.cache
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\ref\vtoroe_chislo.dll
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.pdb
+C:\Users\tkach\OneDrive\Рабочий стол\example\vtoroe_chislo\obj\Debug\net6.0\vtoroe_chislo.genruntimeconfig.cache
